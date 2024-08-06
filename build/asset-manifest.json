@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BmI_Calculator/static/css/main.7b098885.css",
+    "main.js": "/BmI_Calculator/static/js/main.a1d69bba.js",
+    "index.html": "/BmI_Calculator/index.html",
+    "main.7b098885.css.map": "/BmI_Calculator/static/css/main.7b098885.css.map",
+    "main.a1d69bba.js.map": "/BmI_Calculator/static/js/main.a1d69bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b098885.css",
+    "static/js/main.a1d69bba.js"
+  ]
+}
